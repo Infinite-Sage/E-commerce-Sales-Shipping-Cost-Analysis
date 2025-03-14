@@ -30,7 +30,7 @@ Dashboard:
     Pet food and disposable products generate the highest revenue.
     Electronics (pet cameras) have highest profit margins (62%), outperforming other categories.
     Some products, despite high sales, have lower profit margins, requiring pricing adjustments.
-    ![Sales & Profit Margin](./Sales and Profit Margin.png)
+    ![Sales & Profit Margin](Sales-and-Profit-Margin.png)
 
 2. Customer Distribution & LTV Insights
 
