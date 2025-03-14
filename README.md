@@ -30,8 +30,8 @@ Dashboard:
     Pet food and disposable products generate the highest revenue.
     Electronics (pet cameras) have highest profit margins (62%), outperforming other categories.
     Some products, despite high sales, have lower profit margins, requiring pricing adjustments.
+![Sales and Profit Margin](https://github.com/user-attachments/assets/0cf8e96d-7189-45d3-8047-6a23e357964a)
 
-![Sales & Profit Margin](Sales-and-Profit-Margin.png)
 
 2. Customer Distribution & LTV Insights
 
@@ -39,8 +39,7 @@ Dashboard:
 
     Texas, California, and Florida have the highest LTV customers, making them prime candidates for targeted marketing campaigns.
     Customers from high-LTV states contribute to long-term profitability and repeat purchases.
-    
-![LTV by State](./Top sellers and LTV by State.png)
+![Top sellers and LTV by State](https://github.com/user-attachments/assets/503a2981-e552-459b-a40d-46dd15fc1edd)
 
 3. Market Basket Analysis (Cross-Sell Opportunities)
 
@@ -49,12 +48,9 @@ Dashboard:
     Dog Poop Bags and Memory Foam Pet Beds show a strong correlation, indicating a potential bundle offer.
     UltraSound Dog Barking Deterrent & Premium Dog Food are often bought together, providing upsell potential.
     Cross-sell recommendations could increase the average order value and customer retention.
-    
-![Market Basket Analysis](./Market Basket Analysis.png)
+![Market Basket Analysis](https://github.com/user-attachments/assets/4a90d5ba-940b-4076-9d99-8a92962c0014)
 
 4. Shipping Cost Analysis (State-wise Distribution & Per Product Costing)
-
-Dashboard:
 
 Dashboard:
 
@@ -62,8 +58,8 @@ Dashboard:
     Shipping single-unit products significantly increases costs—bulk purchasing discounts should be encouraged.
     High shipping costs for lightweight products suggest package optimization strategies.
 
-![Shipping Costs by State and Avg Qty by Product Category](./Shipping Costs by State and Avg Qty by Product Category.png)
-![Total Shipping Costs by Product](./Total Shipping Costs by Product.png)    
+![Shipping Costs by State and Avg Qty by Product Category](https://github.com/user-attachments/assets/f1fb4c42-b596-4b4c-908b-de311f7291bc)
+![Total Shipping Costs by Product](https://github.com/user-attachments/assets/19efc49b-2bcf-4405-bbc4-70166efc40b9)
 
 5. Shipping Optimization - Cost Savings Simulation
 
@@ -71,8 +67,7 @@ Dashboard:
 
     A "What-if" scenario shows that shipping in bulk reduces costs by $58,113, optimizing expenses for both customers and the business.
     Businesses should encourage higher quantity purchases to leverage cost savings and logistics efficiency.
-    
-![Impact of Shipped Quantity on Shipping Costs](./Impact of Shipped Quantity on Shipping Costs.png)
+![Impact of Shipped Quantity on Shipping Costs](https://github.com/user-attachments/assets/44201322-401c-4f52-a9c6-c788031e76fc)
 
 6. State-wise Sales Performance & Profitability
 
@@ -80,8 +75,7 @@ Dashboard:
 
     Geographical analysis reveals that states with the highest sales don’t always yield the highest profit margins.
     Insights from state-wise sales performance can help refine regional marketing strategies.
-
-![Sales by State Map and Profit Percentage](./Sales by State Map and Profit Percentage.png)    
+![Sales by State Map and Profit Percentage](https://github.com/user-attachments/assets/461cc65a-6245-45ab-8740-46fb1f6cdfed)
 
 ## **Strategic Recommendations**
 
